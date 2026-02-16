@@ -1,0 +1,16 @@
+F:\№1\precrices\Picture\bin\Debug\net8.0-windows\Picture.exe
+F:\№1\precrices\Picture\bin\Debug\net8.0-windows\Picture.deps.json
+F:\№1\precrices\Picture\bin\Debug\net8.0-windows\Picture.runtimeconfig.json
+F:\№1\precrices\Picture\bin\Debug\net8.0-windows\Picture.dll
+F:\№1\precrices\Picture\bin\Debug\net8.0-windows\Picture.pdb
+F:\№1\precrices\Picture\obj\Debug\net8.0-windows\Picture.Form1.resources
+F:\№1\precrices\Picture\obj\Debug\net8.0-windows\Picture.csproj.GenerateResource.cache
+F:\№1\precrices\Picture\obj\Debug\net8.0-windows\Picture.GeneratedMSBuildEditorConfig.editorconfig
+F:\№1\precrices\Picture\obj\Debug\net8.0-windows\Picture.AssemblyInfoInputs.cache
+F:\№1\precrices\Picture\obj\Debug\net8.0-windows\Picture.AssemblyInfo.cs
+F:\№1\precrices\Picture\obj\Debug\net8.0-windows\Picture.csproj.CoreCompileInputs.cache
+F:\№1\precrices\Picture\obj\Debug\net8.0-windows\Picture.dll
+F:\№1\precrices\Picture\obj\Debug\net8.0-windows\refint\Picture.dll
+F:\№1\precrices\Picture\obj\Debug\net8.0-windows\Picture.pdb
+F:\№1\precrices\Picture\obj\Debug\net8.0-windows\Picture.genruntimeconfig.cache
+F:\№1\precrices\Picture\obj\Debug\net8.0-windows\ref\Picture.dll
